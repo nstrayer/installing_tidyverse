@@ -1,0 +1,4 @@
+To change password run 
+`sudo passwd $USER` 
+Will not work running without the $USER for some reason.
+
